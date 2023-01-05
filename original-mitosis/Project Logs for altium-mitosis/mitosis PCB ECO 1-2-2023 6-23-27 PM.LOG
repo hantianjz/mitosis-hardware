@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=LED Pin=D2-2
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=S21 Pin=U2-2
+Removed Pin From Net: NetName=S22 Pin=U2-3
+Removed Pin From Net: NetName=S23 Pin=U2-4
+Removed Pin From Net: NetName=S24 Pin=U2-5
+Removed Pin From Net: NetName=S25 Pin=U2-6
+Removed Pin From Net: NetName=S26 Pin=U2-9
+Removed Pin From Net: NetName=S27 Pin=U2-10
+Removed Pin From Net: NetName=GND Pin=U2-11
+Removed Pin From Net: NetName=VCC Pin=U2-12
+Removed Pin From Net: NetName=LED Pin=U2-14
+Removed Pin From Net: NetName=S1 Pin=U2-15
+Removed Pin From Net: NetName=S2 Pin=U2-16
+Removed Pin From Net: NetName=S3 Pin=U2-17
+Removed Pin From Net: NetName=S4 Pin=U2-18
+Removed Pin From Net: NetName=S5 Pin=U2-19
+Removed Pin From Net: NetName=S6 Pin=U2-20
+Removed Pin From Net: NetName=S7 Pin=U2-21
+Removed Pin From Net: NetName=S8 Pin=U2-22
+Removed Pin From Net: NetName=S9 Pin=U2-23
+Removed Pin From Net: NetName=S10 Pin=U2-24
+Removed Pin From Net: NetName=S11 Pin=U2-25
+Removed Pin From Net: NetName=S12 Pin=U2-26
+Removed Pin From Net: NetName=S13 Pin=U2-27
+Removed Pin From Net: NetName=S14 Pin=U2-28
+Removed Pin From Net: NetName=S15 Pin=U2-29
+Removed Pin From Net: NetName=S16 Pin=U2-30
+Removed Pin From Net: NetName=SWDIO Pin=U2-31
+Removed Pin From Net: NetName=SWCLK Pin=U2-32
+Removed Pin From Net: NetName=S17 Pin=U2-33
+Removed Pin From Net: NetName=S18 Pin=U2-34
+Removed Pin From Net: NetName=S19 Pin=U2-35
+Removed Pin From Net: NetName=S20 Pin=U2-36
+Removed Member From Class: ClassName=mitosis Member=D2
+Removed Member From Class: ClassName=mitosis Member=R2
+Removed Member From Class: ClassName=mitosis Member=U2
+Added Component: Designator=P1(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=SWCLK Pin=P1-2
+Added Pin To Net: NetName=SWDIO Pin=P1-3
+Added Pin To Net: NetName=VCC Pin=P1-4
+Added Member To Class: ClassName=mitosis Member=Component P1 Header 4
