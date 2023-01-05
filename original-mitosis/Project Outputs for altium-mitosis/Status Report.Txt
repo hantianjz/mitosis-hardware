@@ -1,0 +1,20 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [altium-mitosis.PrjPcb]
+   Generated File[mitosis.GTO]
+   Generated File[mitosis.GTP]
+   Generated File[mitosis.GTS]
+   Generated File[mitosis.GTL]
+   Generated File[mitosis.GBL]
+   Generated File[mitosis.GBS]
+   Generated File[mitosis.GBP]
+   Generated File[mitosis.GBO]
+   Generated File[mitosis.GM]
+   Generated File[mitosis.EXTREP]
+   Generated File[mitosis.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 3:55:51 PM On 1/5/2023

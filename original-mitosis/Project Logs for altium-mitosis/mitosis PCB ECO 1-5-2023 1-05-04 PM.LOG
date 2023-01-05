@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VCC Pin=Q2-1
+Removed Pin From Net: NetName=GND Pin=Q2-2
+Removed Pin From Net: NetName=GND_P Pin=Q2-3
+Removed Member From Class: ClassName=mitosis Member=Q2
+Added Member To Class: ClassName=mitosis Member=Component S22 CHERRY MX
