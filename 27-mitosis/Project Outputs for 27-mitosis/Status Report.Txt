@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [27-mitosis.PcbDoc]
+   Generated File[27-mitosis.TXT]
+   Generated File[27-mitosis.LDP]
+   Generated File[27-mitosis.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:21:36 PM On 1/5/2023
